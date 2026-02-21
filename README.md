@@ -1,1 +1,3 @@
-# como-comprar-loopring-lrc
+[**Cómo comprar Loopring (LRC)**](https://topcryptoguide.com/como-comprar-loopring-lrc/)
+
+Este artículo explica **cómo comprar Loopring (LRC)**, el token nativo del protocolo Loopring, una solución de **capa 2 para intercambios descentralizados** (DEX) que ofrece transacciones rápidas y bajas comisiones usando zk-Rollups sobre Ethereum. Para adquirir LRC normalmente debes **crear una cuenta en un exchange confiable donde esté listado** (como Binance, KuCoin o OKX), **verificar tu identidad** si corresponde y **depositar fondos** mediante transferencia bancaria, tarjeta o stablecoins como USDT antes de ejecutar la compra en el mercado spot. Algunos exchanges también permiten **comprar LRC con tarjeta de crédito/débito** u otros métodos según disponibilidad. Tras la compra, se recomienda **mover tus tokens a un wallet seguro** donde controles tus claves privadas para proteger tus activos digitales.
